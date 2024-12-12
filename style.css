@@ -42,4 +42,7 @@ header button {
   height: 5vh;
   font-size: 1.5rem;
   font-weight: 500;
-} /*# sourceMappingURL=style.css.map */
+} 
+.inicialSection {
+  background-image: url(./imagens/background.png);
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,41 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  border: solid red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 15vh;
+  font-family: "Oswald";
+}
+header h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+header nav {
+  width: 40%;
+  border: solid green;
+}
+header ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+header a {
+  text-decoration: none;
+  font-size: 1.25rem;
+  color: #5b5b5b;
+  font-weight: 500;
+}
+header button {
+  border: solid;
+  width: 7%;
+  height: 5vh;
+  font-size: 1.5rem;
+  font-weight: 500;
+}/*# sourceMappingURL=style.css.map */
